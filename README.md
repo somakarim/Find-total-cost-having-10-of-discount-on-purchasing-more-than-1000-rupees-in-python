@@ -1,0 +1,1 @@
+# Find-total-cost-having-10-of-discount-on-purchasing-more-than-1000-rupees-in-python
